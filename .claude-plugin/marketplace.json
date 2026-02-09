@@ -8,8 +8,8 @@
   },
   "plugins": [
     {
-      "name": "directpost",
-      "source": "./plugins/directpost",
+      "name": "post-marco",
+      "source": "./plugins/post-marco",
       "description": "Gera posts otimizados para LinkedIn e X com tom direto, tecnico e orientado a resultados."
     }
   ]
