@@ -1,0 +1,12 @@
+{
+  "name": "directpost",
+  "description": "Gera posts otimizados para LinkedIn e X (Twitter) com tom direto, tecnico e orientado a resultados. Sem bullshit corporativo.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marco Antonio Fassa",
+    "url": "https://marcofassa-cto.web.app"
+  },
+  "homepage": "https://github.com/marcoantoniofassa/directpost",
+  "repository": "https://github.com/marcoantoniofassa/directpost",
+  "license": "MIT"
+}
