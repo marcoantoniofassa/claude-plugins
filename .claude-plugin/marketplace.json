@@ -1,0 +1,16 @@
+{
+  "name": "marcofassa-plugins",
+  "owner": {
+    "name": "Marco Antonio Fassa"
+  },
+  "metadata": {
+    "description": "Plugins do Marco Fassa para Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "directpost",
+      "source": "./plugins/directpost",
+      "description": "Gera posts otimizados para LinkedIn e X com tom direto, tecnico e orientado a resultados."
+    }
+  ]
+}
